@@ -23,7 +23,7 @@ Welcome to **Lens - The Golden Hour Curation**, a photo gallery web application 
 
 ---
 
-- ## Learning Objectives
+## Learning Objectives
 
 This project was developed with the following learning goals in mind:
 

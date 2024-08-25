@@ -61,11 +61,7 @@ This project was developed with the following learning goals in mind:
    npm run dev
    ```
 
-4. Open the application in your browser:
-
-   ```bash
-   http://localhost:3000
-   ```
+4. Open the application in your browser
 
 ---
 

@@ -1,6 +1,6 @@
 # Lens - The Golden Hour Curation
 
-![LENS Photo Galley Screenshot](./docs/images/lens-screenshot-1)
+![LENS Photo Galley Screenshot](./docs/images/lens-screenshot-1.png)
 
 Welcome to **Lens - The Golden Hour Curation**, a photo gallery web application created as a practice project to showcase stunning photos taken during the golden hour. This project leverages Vue.js for the front-end, offering a sleek, modern design and intuitive user experience.
 
@@ -16,7 +16,7 @@ Welcome to **Lens - The Golden Hour Curation**, a photo gallery web application 
 
 ---
 
-![LENS Photo Galley Screenshot 2](./docs/images/lens-screenshot-2)
+![LENS Photo Galley Screenshot 2](./docs/images/lens-screenshot-2.png)
 
 ## Technologies Used
 

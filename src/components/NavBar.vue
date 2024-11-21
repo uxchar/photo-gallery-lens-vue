@@ -41,7 +41,7 @@
       rgba(0, 0, 0, 0.3),
       rgba(0, 0, 0, 0.9)
     ),
-    url("../assets/images/adam-borkowski-SLFhsmMkW-A-unsplash.jpg");
+    url("/public/images/adam-borkowski-SLFhsmMkW-A-unsplash.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;

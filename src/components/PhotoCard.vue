@@ -1,11 +1,13 @@
 <script setup>
+import Image from "next/image";
+
 const props = defineProps(["photo"]);
 </script>
 
 <template>
   <a :href="photo.webSrc" class="photo-link">
     <div class="photo-card">
-      <img :src="photo.localSrc" :alt="photo.alt" class="feed-img" />
+      <Image :src="photo.localSrc" :alt="photo.alt" class="feed-img" />
 
       <p class="creator">{{ photo.creator }}</p>
     </div>

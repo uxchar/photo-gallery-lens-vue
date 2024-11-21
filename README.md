@@ -1,5 +1,7 @@
 # Lens - The Golden Hour Curation
 
+Deployed here: [photo-gallery-lens-vue.vercel.app](https://photo-gallery-lens-vue.vercel.app/)
+
 ![LENS Photo Galley Screenshot](./docs/images/lens-screenshot-1.png)
 
 Welcome to **Lens - The Golden Hour Curation**, a photo gallery web application created as a practice project to showcase stunning photos taken during the golden hour. This project leverages Vue.js for the front-end, offering a sleek, modern design and intuitive user experience.

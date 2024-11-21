@@ -3,7 +3,7 @@
 <template>
   <div class="nav-section">
     <div class="logo-container animate__animated animate__fadeInDown">
-      <img src="../assets/images/donut.png" class="logo-icon" alt="logo" />
+      <img src="/public/images/donut.png" class="logo-icon" alt="logo" />
       <h1 class="logo">lens</h1>
       <p class="logo-text">The Golden Hour Curation</p>
     </div>

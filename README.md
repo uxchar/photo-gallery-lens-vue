@@ -1,6 +1,6 @@
 # Lens - The Golden Hour Curation
 
-Deployed here: [photo-gallery-lens-vue.vercel.app](https://photo-gallery-lens-vue.vercel.app/)
+Deployed here: [photo-gallery-lens-vue.vercel.app](https://photo-gallery-lens-vue-git-main-uxchars-projects.vercel.app/)
 
 ![LENS Photo Galley Screenshot](./docs/images/lens-screenshot-1.png)
 
